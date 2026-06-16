@@ -91,5 +91,5 @@ I am especially motivated by tools that make learning more effective, which led 
 
 - GitHub: [facchinimat](https://github.com/facchinimat)
 - LinkedIn: [matteo-facchini-b14667352](https://www.linkedin.com/in/matteo-facchini-b14667352/)
-- Email: squadmatteo@gmail.com
+- Email: matteofac12@gmail.com
 <!-- - Resume: [View Resume](YOUR_RESUME_LINK) -->
