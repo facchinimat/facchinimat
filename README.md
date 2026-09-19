@@ -1,95 +1,100 @@
 # Matteo Facchini
 
-**Computer Science student at Stony Brook University** focused on software engineering, AI-powered applications, and building practical tools that solve real problems.
+**Computer Science @ Stony Brook University | Backend & Infrastructure Software Engineering | Distributed Systems & AI Infrastructure**
 
-I am currently looking for **Software Engineering / AI Engineering internship opportunities** where I can contribute to real-world systems, keep improving as an engineer, and work on products that are actually useful.
+I'm a junior Computer Science student at **Stony Brook University** graduating in **May 2028**, focused on building reliable backend and infrastructure systems.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=facchinimat&style=flat-square&color=0ea5e9)](https://github.com/facchinimat)
-[![GitHub Followers](https://img.shields.io/github/followers/facchinimat?style=flat-square&logo=github&label=Followers)](https://github.com/facchinimat?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-facchini-b14667352/)
+I'm especially interested in **backend engineering, distributed systems, developer infrastructure, CI/CD, systems software, and AI infrastructure**. I'm currently seeking **Summer 2027 Software Engineering internship opportunities** where I can contribute to real systems and continue growing as an engineer.
 
----
-
-## Currently Building
-
-### CourseLens AI
-
-An AI-powered course tutor that helps students study from their own course materials by turning PDFs into interactive learning tools.
-
-**Core features:**
-
-- Upload course PDFs and extract study content
-- Ask questions about course material using RAG-based retrieval
-- Get AI-generated answers with source citations
-- Generate quizzes from uploaded material
-- Track weak areas over time
-- Use a simple student-focused web interface
-
-**Tech Stack:** Python, FastAPI, Streamlit, OpenAI API, RAG, SQL, Docker
-
-[View Project](https://github.com/facchinimat/CourseLens_AI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matteo%20Facchini-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-facchini-b14667352/)
+[![Email](https://img.shields.io/badge/Email-matteofac12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matteofac12@gmail.com)
 
 ---
 
-## Tech Stack
+## Featured Projects
 
-![Core Tools](https://skillicons.dev/icons?i=python,java,fastapi,docker,html,css,js,git,github,vscode)
+### [ForgeCI](https://github.com/facchinimat/ForgeCI) — Distributed CI / Testing Platform *(in development)*
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-7c3aed?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+A systems-focused CI platform built to explore the infrastructure behind modern CI/CD systems.
 
----
+**Implemented so far**
+- FastAPI backend with health-check endpoint
+- Authenticated GitHub push webhooks
+- HMAC-SHA256 webhook signature verification
+- GitHub event filtering and repository / branch / commit extraction
+- PostgreSQL connectivity with SQLAlchemy + psycopg
+- Automated API and webhook security tests with pytest
 
-## Project Focus
+**Current roadmap**
+- Persist build records in PostgreSQL
+- Add a Redis-backed job queue
+- Build worker processes for repository checkout and test execution
+- Run tests inside isolated Docker containers
+- Add concurrent workers, heartbeats, job leases, and failure recovery
+- Report results through the GitHub Checks API
+- Benchmark concurrency and system performance
 
-I am currently focused on building projects around:
-
-- Backend APIs and full-stack applications
-- AI-powered learning tools
-- Retrieval-Augmented Generation systems
-- Clean project structure and documentation
-- Practical software that can be used by real users
-
----
-
-## Featured Work
-
-| Project | Description | Tech |
-|---|---|---|
-| **CourseLens AI** | AI study assistant that lets students upload PDFs, ask questions with citations, generate quizzes, and track weak areas. | Python, FastAPI, Streamlit, OpenAI API, RAG, SQL |
-| **Data Structures & Algorithms** | Practice and implementations for technical interview preparation. | Java, Python |
-| **Full-Stack Projects** | Web applications focused on APIs, frontend/backend integration, and clean documentation. | JavaScript, HTML, CSS, APIs |
+**Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, psycopg, pytest, GitHub Webhooks
 
 ---
 
-## GitHub Stats
+### [CourseLens AI](https://github.com/facchinimat/CourseLens_AI) — RAG Course Document Assistant
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=facchinimat&show_icons=true&hide_title=true&rank_icon=github)
+A document-based AI study assistant that lets students upload course PDFs and ask questions grounded in their own materials.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=facchinimat&layout=compact)
+**Highlights**
+- PDF ingestion and page-level text extraction
+- Document chunking with source metadata
+- OpenAI embeddings and ChromaDB vector search
+- Retrieval-Augmented Generation (RAG)
+- Source-grounded answers with filename and page citations
+- FastAPI backend with a Streamlit interface
+
+**Tech:** Python, FastAPI, OpenAI API, ChromaDB, PyMuPDF, Pydantic, Streamlit
 
 ---
 
-## My Coding Journey
+## Technical Skills
 
-<details>
-<summary>Expand</summary>
+**Languages**  
+Python · C · Java · SQL · TypeScript · JavaScript
 
-I am a Computer Science student at **Stony Brook University** interested in both **software engineering** and **AI engineering**.
+**Backend & Data**  
+FastAPI · REST APIs · PostgreSQL · SQLAlchemy · Pydantic
 
-Right now, I am strengthening my skills in **Python, Java, backend development, APIs, full-stack development, AI tools, data structures, and algorithms**.
+**Systems & Infrastructure**  
+Linux · Git · GitHub · Docker · GitHub Webhooks · CI/CD · pytest
 
-I am especially motivated by tools that make learning more effective, which led me to start building **CourseLens AI**. My goal is to keep building polished projects, improve my problem-solving skills, and prepare for **SWE / AI internship opportunities**.
+**AI / Retrieval**  
+RAG · Embeddings · Vector Search · OpenAI API · ChromaDB
 
-</details>
+**Currently learning more about**  
+Distributed Systems · Concurrency · Job Queues · Fault Tolerance · Containerized Execution · Performance · Reliability
+
+---
+
+## Areas of Interest
+
+- Backend Software Engineering
+- Infrastructure / Platform Engineering
+- Distributed Systems
+- Developer Infrastructure / CI/CD
+- Systems Software
+- AI Infrastructure
+
+---
+
+## Current Focus
+
+**Computer Science Foundations**  
+Data Structures & Algorithms · Systems Architecture · System Design · Operating Systems Concepts · Concurrency
+
+**Currently learning more about**  
+Distributed Systems · Fault Tolerance · Job Queues · Containerized Execution · Performance · Reliability
 
 ---
 
 ## Contact
 
-- GitHub: [facchinimat](https://github.com/facchinimat)
-- LinkedIn: [matteo-facchini-b14667352](https://www.linkedin.com/in/matteo-facchini-b14667352/)
-- Email: matteofac12@gmail.com
-<!-- - Resume: [View Resume](YOUR_RESUME_LINK) -->
+- **LinkedIn:** [linkedin.com/in/matteo-facchini-b14667352](https://www.linkedin.com/in/matteo-facchini-b14667352/)
+- **Email:** [matteofac12@gmail.com](mailto:matteofac12@gmail.com)
