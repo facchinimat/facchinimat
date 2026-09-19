@@ -94,6 +94,23 @@ Distributed Systems · Fault Tolerance · Job Queues · Containerized Execution 
 
 ---
 
+## Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/facchinimat/facchinimat/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/facchinimat/facchinimat/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/facchinimat/facchinimat/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/matteo-facchini-b14667352](https://www.linkedin.com/in/matteo-facchini-b14667352/)
