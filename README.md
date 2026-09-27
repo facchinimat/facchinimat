@@ -24,9 +24,9 @@ A systems-focused CI platform built to explore the infrastructure behind modern 
 - GitHub event filtering and repository / branch / commit extraction
 - PostgreSQL connectivity with SQLAlchemy + psycopg
 - Automated API and webhook security tests with pytest
+- Persist build records in PostgreSQL
 
 **Current roadmap**
-- Persist build records in PostgreSQL
 - Add a Redis-backed job queue
 - Build worker processes for repository checkout and test execution
 - Run tests inside isolated Docker containers
